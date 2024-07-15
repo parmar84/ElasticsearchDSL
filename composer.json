@@ -16,7 +16,7 @@
         "paragonie/random_compat": "*"
     },
     "require-dev": {
-        "elasticsearch/elasticsearch": "^7.0",
+        "elasticsearch/elasticsearch": "^7.0|^8.0",
         "phpunit/phpunit": "~6.0",
         "squizlabs/php_codesniffer": "^3.0"
     },
